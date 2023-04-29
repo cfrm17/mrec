@@ -64,6 +64,3 @@ Where VaR include general VaR, equity specific VaR, debt specific VaR and increm
 References:
 
 https://finpricing.com/lib/FxVolIntroduction.html
-
-https://bitbucket.org/cfrm17/mrec/downloads/mrEc-11.pdf
-
